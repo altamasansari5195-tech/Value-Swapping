@@ -4,7 +4,9 @@ Write a program in C to get value before swapping the value?
 #include <stdio.h>
 
 int main() {
+
     int a=5,b=10,c;
+    
     printf("your value before swapping");
     
     printf("value of a is %d ",a);
